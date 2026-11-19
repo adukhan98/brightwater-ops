@@ -1,0 +1,17 @@
+customer,po_number,sku,quantity,unit_price,notes
+Mesa Verde Grocers,10901,ESP-HOUSE-1KG,18,$28.50,"Deliver to dock 2, before 10am"
+Mesa Verde Grocers,10901,MLK-OAT-6X1L,12,32.40,"Deliver to dock 2, before 10am"
+Mesa Verde Grocers,10901,MLK-ALM-6X1L,6,29.70,"Deliver to dock 2, before 10am"
+Mesa Verde Grocers,10902,CUP-PAPER-12OZ,4,$33.00,
+Mesa Verde Grocers,10902,LID-SIP-12OZ,"1,200",4.20,
+Mesa Verde Grocers,10902,SLV-KRAFT-1000,2,36.00,
+Mesa Verde Grocers,10903,EQP-GRINDER-PRO,1,"$1,250.00","Replaces deli counter grinder, call before delivery"
+Mesa Verde Grocers,10903,CLN-TABS-100,2,23.40,
+Mesa Verde Grocers,10904,SYR-VANILLA-750,12,9.80,
+Mesa Verde Grocers,10904,SYR-CARAMEL-750,12,9.80,
+Mesa Verde Grocers,10904,SAU-CHOC-2L,4,16.90,
+Mesa Verde Grocers,10905,ESP-HOUSE-1KG,12,$28.50,Weekly restock
+Mesa Verde Grocers,10905,TEA-CHAI-1KG,,18.25,Weekly restock
+Mesa Verde Grocers,10905,NAP-KRAFT-500,6,7.40,Weekly restock
+Mesa Verde Grocers,10906,COF-COLDBREW-5KG,3,$112.00,"Cold brew tasting, Saturday AM"
+Mesa Verde Grocers,10906,CUP-COLD-16OZ,2,44.00,
